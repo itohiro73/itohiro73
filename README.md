@@ -34,6 +34,7 @@
 - for Startups Inc. 【エンジニアキャリア】[「個人の強さと言うよりも、しなやかさや優しさを持ちチーム力で勝負できる組織にしていきたい」ゴールドマン・サックス出身のVPoEがfor Startupsを介してREADYFORに転職した理由](https://www.wantedly.com/companies/forstartups/post_articles/213107)
 - ＠IT[「ソフトウェア品質向上の”変”2016初夏～FinTech、IoTを見据えた”テスト自動化の勘所”」セミナーリポート（前編）](https://atmarkit.itmedia.co.jp/ait/articles/1607/21/news115.html)
 - @IT [ゴールドマン・サックスが実践する「品質向上」の取り組みと役立つツール](https://atmarkit.itmedia.co.jp/ait/articles/1512/03/news163.html)
+- eFinancialCareers: [A backdoor into Goldman Sachs tech jobs](https://www.efinancialcareers.jp/news/2017/04/how-to-get-a-tech-job-at-goldman-sachs)
 
 ## Videos
 - Dec 2021: [エンジニア採用・組織開発の話を赤裸々大公開！](https://www.youtube.com/watch?v=_ys9bN7RLyg)
