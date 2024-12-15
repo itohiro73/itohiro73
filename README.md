@@ -24,10 +24,13 @@
 
 ## Hi there, I'm Hiroshi! ![alt text](https://avatars.githubusercontent.com/u/2220637?s=16)
 
-- 🔭 I’m currently working at [Loglass Inc.](https://www.loglass.jp/) as a full-stack developer and a part-time engineering manager.
+- 🔭 I’m currently working at [Loglass Inc.](https://www.loglass.jp/) as CTO.
 - 🌱 I used to be a project lead of an OSS library called [Eclipse Collections]().
 
 ## Coverage Articles
+- レバテックLAB [後回しにしない組織はどう作る？論文『銀の弾丸』から紐解く「あの時やっておけば」と決別する方法【ログラスVPoE伊藤】](https://levtech.jp/media/article/interview/detail_508/)
+- Tech Team Journal [Career Decision｜ログラスVPoE 伊藤博志氏](https://ttj.paiza.jp/archives/2024/06/26/14069/)
+- SELECK [1年で組織が約2倍に急拡大。ログラスの急成長を支えるTech Value「Update Normal」とは](https://seleck.cc/1648)
 - 可能性を拓くマネジメント発明会議 第12回　READYFOR [行動原理の異なる、エンジニア組織と事業を「乳化」させる](https://www.recruit-ms.co.jp/issue/column/0000001080/)
 - EVANGE [個人のやりたいことの集合体がビジョンの実現に繋がるように。READYFOR 執行役員 VPoE 伊藤 博志 氏がつくりたい世界](https://evange.jp/n/n85753e77b4f7)
 - CodeZine [「強いエンジニア組織を作りたい」野望を胸に、READYFORが取り組んだ「組織の乳化」と「スクワッド体制」とは？](https://codezine.jp/article/detail/14021)
@@ -37,6 +40,9 @@
 - eFinancialCareers: [A backdoor into Goldman Sachs tech jobs](https://www.efinancialcareers.jp/news/2017/04/how-to-get-a-tech-job-at-goldman-sachs)
 
 ## Videos
+- Nov 2023: [技術的品質と開発生産性：二兎を追うための技術 - Loglass TECH TALK #3](https://www.youtube.com/watch?v=gFJcJI2u8E8)
+- Jun 2023: [顧客に価値を届けるプロダクト開発の実践 - Loglass TECH TALK #2](https://www.youtube.com/watch?v=S53W7_LPiMQ)
+- Apr 2023: [「DDDもスクラムも当たり前」な開発組織をどうやって作るか - Loglass TECH TALK #1](https://www.youtube.com/watch?v=IxQvELUvQgc)
 - Dec 2021: [エンジニア採用・組織開発の話を赤裸々大公開！](https://www.youtube.com/watch?v=_ys9bN7RLyg)
 - Nov 2021: [【READYFOR×HRBrain】VPoEが語る！急成長スタートアップのエンジニア組織](https://www.youtube.com/watch?v=AKooYOToIl8&t=2s)
 - Oct 2021: [Wantedly エンジニアリングマネージャー座談会 第2回 READYFOR VPoE 伊藤博志](https://www.youtube.com/watch?v=muGTAhbsy-o)
@@ -45,6 +51,7 @@
 - Sep 2017: [【Scala関西Summit 2017】Reladomo in Scala](https://www.youtube.com/watch?v=HjCHaZsEodc)
 
 ## Slide Deck
+- 開発生産性カンファレンス 2024 [フィーチャー開発から ホールプロダクト開発へ ~ 顧客価値へ向き合い続ける挑戦 ~](https://speakerdeck.com/itohiro73/huitiyakai-fa-kara-horupurodakutokai-fa-he-gu-ke-jia-zhi-hexiang-kihe-isok-kerutiao-zhan-at-itohiro73-number-kai-fa-sheng-chan-xing-con-findy)
 - Jul 2020: Developers Summit 2020 Summer [エンジニアリングが組織に広がる「乳化」を目指すための取り組み](https://speakerdeck.com/itohiro73/enziniaringugazu-zhi-niguang-garu-ru-hua-womu-zhi-sutamefalsequ-rizu-mi-number-devsumi-number-devsumic)
 - Feb 2020: Object-Oriented Conference 2020 - [READYFORにおける複雑なドメインとレガシーシステムとの戦い方](https://speakerdeck.com/itohiro73/readyforniokerufu-za-nadomeintoregasisisutemutofalsezhan-ifang)
 - Nov 2018: Scala関西 Summit 2018 - [Scalaで実装してみる簡易ブロックチェーン](https://www.slideshare.net/itohiro73/scala-122624319)
